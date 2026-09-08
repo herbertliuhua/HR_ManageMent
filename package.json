@@ -1,7 +1,9 @@
 {
-  "name": "my-erp",
+  "name": "myhr",
   "private": true,
   "version": "0.1.0",
+  "description": "MyHR - 人事管理系统（跨平台桌面/移动端）",
+  "author": "MyHR",
   "type": "module",
   "main": "electron/main.cjs",
   "scripts": {
@@ -58,6 +60,7 @@
       "target": [
         "dmg"
       ]
-    }
+    },
+    "publish": null
   }
 }
