@@ -1,0 +1,32 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+release/
+*.local
+
+# 环境与日志
+.env
+.env.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Capacitor
+android/.gradle
+android/app/build
+android/build
+android/local.properties
+android/capacitor-cordova-android-plugins/
+
+# Electron 缓存
+release/
