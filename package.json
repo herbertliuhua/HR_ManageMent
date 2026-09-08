@@ -53,7 +53,8 @@
       "target": [
         "nsis",
         "portable"
-      ]
+      ],
+      "signAndEditExecutable": false
     },
     "mac": {
       "category": "public.app-category.business",
