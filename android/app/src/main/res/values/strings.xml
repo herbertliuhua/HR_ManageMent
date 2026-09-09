@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">MyERP</string>
-    <string name="title_activity_main">MyERP</string>
+    <string name="app_name">MyHR</string>
+    <string name="title_activity_main">MyHR</string>
     <string name="package_name">com.myerp.app</string>
     <string name="custom_url_scheme">com.myerp.app</string>
 </resources>
